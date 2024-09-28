@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS1_LandingPage,Edge Chromium 129,,,28-09-2024 15:13:54,28-09-2024 15:14:04,10.136s,PASSED
+,,,,,,,
+Test Cases/TC1_LandingPage,Edge Chromium 129,,,28-09-2024 15:13:54,28-09-2024 15:14:04,9.805s,PASSED
+"openBrowser("""")",Edge Chromium 129,,,28-09-2024 15:13:55,28-09-2024 15:14:01,6.203s,PASSED
+"navigateToUrl(""https://petstore.octoperf.com/"")",Edge Chromium 129,,,28-09-2024 15:14:01,28-09-2024 15:14:02,1.174s,PASSED
+"click(findTestObject(""Object Repository/TC1_LandingPage_OR/a_Enter the Store""))",Edge Chromium 129,,,28-09-2024 15:14:02,28-09-2024 15:14:04,1.505s,PASSED
+closeBrowser(),Edge Chromium 129,,,28-09-2024 15:14:04,28-09-2024 15:14:04,0.424s,PASSED
